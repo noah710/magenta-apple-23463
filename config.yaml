@@ -18,9 +18,6 @@ params:
       - label: Experience
         url: /blog/
         style: link
-      - label: ''
-        url: /style-guide/
-        style: link
       - label: Skills
         url: /about/
         style: link
