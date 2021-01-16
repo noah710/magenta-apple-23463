@@ -16,6 +16,8 @@ content_img_path: images/IMG_3967.jpg
 
 I first got involved Pitt RAS when I showed up for my first meeting at the end of the 2019 Spring semster. Soon after, the club became my second home as I made lots of new friends with similar interests as me.
 
+### Technical Experience 
+
 During the first 3 months over the Summer, I led a small and tight-knit team of 3 students on the project. Unlike most of my friends, I did not have an internship that Summer, so I treated the club as my internship and learned as much as I could. Since the team was so small, I had the opportunity to immerse myself in our code stack and learn the technical skills I would need to be a good leader. I made most of my **technical contributions** in the Summer, including:
 
 *   Setup robot hardware and electronics
@@ -23,5 +25,8 @@ During the first 3 months over the Summer, I led a small and tight-knit team of 
 *   Developed robot localization system
 *   Created TensorFlow object detection system
 
-By the end of the Summer, my team and I created a robot that could localize itself and autonomously follow a software-defined path! Check out this milestone on [YouTube](https://www.youtube.com/watch?v=kj7x4HNcMWw).
+By the end of the Summer, my team and I created a robot that could localize itself and autonomously follow a software-defined path! Check out this milestone on [YouTube](https://www.youtube.com/watch?v=kj7x4HNcMWw)
 
+### Soft Experience
+
+Once the Fall semester started, my job as Team Leader changed drastically. Instead of sitting in the workshop tinkering, I was standing infront of hundreds of people presenting the mission of my team and recruiting new members. 
