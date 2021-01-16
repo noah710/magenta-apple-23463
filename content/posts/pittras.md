@@ -4,7 +4,7 @@ subtitle: 'Role: Team Leader'
 date: '2019-06-07'
 thumb_img_alt: magellan robot
 content_img_alt: magellan robot
-excerpt: ''
+excerpt: 'Led a team '
 canonical_url: lorem-ipsum
 layout: post
 thumb_img_path: images/IMG_3967.jpg
