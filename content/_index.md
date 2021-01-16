@@ -11,12 +11,12 @@ sections:
     type: section_content
     title: About
     content: >
-      I'm a Linux enthusiast with a can-do attitude willing to RTFM and do
+      I'm a CS student and hacker with a can-do attitude willing to RTFM and do
       whatever it takes to keep the ship sailing. I love working on systems
-      software and infrastructure but I also enjoy computer vision and machine
-      learning applications. I've spent most of my time in positions where my
-      job is to automate workflows, create deploy-able environments and "make
-      things work."
+      software and infrastructure and I've gained a ton of experience with Linux
+      through my various life, club and work projects. I've spent most of my
+      time in positions where my job is to automate workflows, create
+      deploy-able environments and "make things work."
     actions:
       - label: Contact Me
         url: /contact
