@@ -6,7 +6,7 @@ thumb_img_alt: magellan robot
 content_img_alt: magellan robot
 excerpt: >-
   Led a small team of students on an autonomous ground vehicle under the
-  University of Pittsbrurgh Robotics & Automation Society
+  University of Pittsbrurgh Robotics & Automation Society (RAS)
 canonical_url: lorem-ipsum
 layout: post
 thumb_img_path: images/IMG_3967.jpg
