@@ -4,29 +4,31 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Fresh.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    title: 'Hi, I''m Noah'
+    content: |
+      Computer Science Senior at the University of Pittsburgh
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I'm a CS student and hacker with a can-do attitude willing to RTFM and do
+      whatever it takes to keep the ship sailing. I love working on systems
+      software and infrastructure and I've gained a ton of experience with Linux
+      through my various life, club and work projects. I've spent most of my
+      time in positions where my job is to automate workflows, create
+      deploy-able environments and "make things work."
     actions:
       - label: Contact Me
         url: /contact
         style: button
   - section_id: recent-posts
     type: section_posts
-    title: Recent Posts
+    title: Blog
     posts_number: 4
     actions:
       - label: View Blog
         url: blog/index.html
         style: button
 layout: advanced
+excerpt: ''
 ---
