@@ -23,4 +23,4 @@ During the first 3 months over the Summer, I led a small and tight-knit team of 
 *   Developed robot localization system
 *   Created TensorFlow object detection system
 
-By the end of the Summer, my team and I had a robot that could localize itself and autonomously follow a software-defined path! We also implemented rudimentary object avoidance, but the videos for that are nothing to write home about.
+By the end of the Summer, my team and I had a robot that could localize itself and autonomously follow a software-defined path!
