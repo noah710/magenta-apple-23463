@@ -9,7 +9,7 @@ params:
     tagline: Devops Engineer
     profile_img: images/IMG_5182(1).jpeg
     profile_img_alt: Noah's Profile Pic
-    background: dark
+    background: light
     has_nav: true
     nav_links:
       - label: Home
