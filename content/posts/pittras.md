@@ -8,6 +8,7 @@ excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 layout: post
 thumb_img_path: images/IMG_3967.jpg
+content_img_path: images/IMG_3967.jpg
 ---
 ## Lorem ipsum
 
