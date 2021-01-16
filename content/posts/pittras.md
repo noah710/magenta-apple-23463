@@ -2,7 +2,7 @@
 title: Pitt Robotics & Automation Society
 subtitle: 'Role: Team Leader'
 date: '2019-06-07'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: magellan robot
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
