@@ -3,7 +3,7 @@ title: Contact
 hide_title: false
 sections:
   - title: ''
-    section_id: lorem-ipsum
+    section_id: contact-desc
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
