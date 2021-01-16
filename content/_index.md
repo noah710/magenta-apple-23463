@@ -17,18 +17,22 @@ sections:
       through my various life, club and work projects. I've spent most of my
       time in positions where my job is to automate workflows, create
       deploy-able environments and "make things work."
+
+
+      Check out my [Skills](/about) and [Experience](/blog) pages to learn more
+      about me!
     actions:
       - label: Contact Me
         url: /contact
         style: button
-  - section_id: recent-posts
-    type: section_posts
-    title: Blog
-    posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
+        no_follow: true
+      - label: Download my Resume
+        url: lorem-ipsum
         style: button
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
 layout: advanced
 excerpt: ''
 ---

@@ -3,12 +3,12 @@ baseURL: /
 params:
   description: Personal blogging theme for Stackbit
   layout_style: overflow
-  palette: blue
+  palette: violet
   header:
     title: Noah LaFerriere
     tagline: Devops Engineer
     profile_img: images/IMG_5182(1).jpeg
-    profile_img_alt: Author avatar
+    profile_img_alt: Noah's Profile Pic
     background: dark
     has_nav: true
     nav_links:
@@ -18,41 +18,24 @@ params:
       - label: Experience
         url: /blog/
         style: link
-      - label: ''
-        url: /style-guide/
-        style: link
-      - label: About
+      - label: Skills
         url: /about/
         style: link
       - label: Contact
         url: /contact/
         style: link
+        no_follow: true
     has_social: true
     social_links:
-      - label: Twitter
-        url: 'https://twitter.com/'
-        style: icon
-        icon_class: fa-twitter
-        new_window: true
-      - label: Instagram
-        url: 'https://www.instagram.com/'
-        style: icon
-        icon_class: fa-instagram
-        new_window: true
       - label: GitHub
-        url: 'https://github.com/'
+        url: 'https://github.com/noah710'
         style: icon
         icon_class: fa-github
         new_window: true
       - label: LinkedIn
-        url: 'https://www.linkedin.com/'
+        url: 'https://www.linkedin.com/in/noah-laferriere-4880091ab/'
         style: icon
         icon_class: fa-linkedin
-        new_window: true
-      - label: DEV
-        url: 'https://dev.to/'
-        style: icon
-        icon_class: fa-dev
         new_window: true
   footer:
     content: >-
