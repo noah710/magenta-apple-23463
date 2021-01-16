@@ -24,6 +24,7 @@ params:
       - label: Contact
         url: /contact/
         style: link
+        no_follow: true
     has_social: true
     social_links:
       - label: Twitter
