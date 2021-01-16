@@ -14,9 +14,9 @@ content_img_path: images/IMG_3967.jpg
 ---
 ## Overview
 
-I first got involved Pitt RAS when I showed up for my first meeting at the end of the 2019 Spring semster. I heard they had an autonomous car project and I was eager to get involved. I was concerned that I was not smart enough to make any meaningful contributions to the team, but within a month of joining the team, I was made Team Leader.
+I first got involved Pitt RAS when I showed up for my first meeting at the end of the 2019 Spring semster. Soon after, the club became my second home and I made lots of new friends with similar interests as me.
 
-During the first 3 months, I led a small and tight-knit team of 3 students on the project. Since the team was so small, I had the opportunity to get down and dirty with our stack and learn the technical skills I would need to be a good leader. 
+During the first 3 months over the Summer, I led a small and tight-knit team of 3 students on the project. Unlike most of my friends, I did not have an internship that Summer, so I treated the club as my internship and learned as much as I could. Since the team was so small, I had the opportunity to immerse myself in our code stack and learn the technical skills I would need to be a good leader. I made most of my technical contributions in the Summer, including:
 
 *   Lorem ipsum
 *   dolor sit amet
