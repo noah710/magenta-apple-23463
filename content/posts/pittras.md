@@ -14,7 +14,7 @@ content_img_path: images/IMG_3967.jpg
 ---
 ## Overview
 
-I first got involved Pitt RAS when I showed up for my first meeting at the end of the 2019 Spring semster. Soon after, the club became my second home and I made lots of new friends with similar interests as me.
+I first got involved Pitt RAS when I showed up for my first meeting at the end of the 2019 Spring semster. Soon after, the club became my second home as I made lots of new friends with similar interests as me.
 
 During the first 3 months over the Summer, I led a small and tight-knit team of 3 students on the project. Unlike most of my friends, I did not have an internship that Summer, so I treated the club as my internship and learned as much as I could. Since the team was so small, I had the opportunity to immerse myself in our code stack and learn the technical skills I would need to be a good leader. I made most of my technical contributions in the Summer, including:
 
