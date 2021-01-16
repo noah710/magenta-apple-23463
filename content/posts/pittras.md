@@ -12,9 +12,9 @@ layout: post
 thumb_img_path: images/IMG_3967.jpg
 content_img_path: images/IMG_3967.jpg
 ---
-## Lorem ipsum
+## Overview
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I first got involved Pitt RAS when I showed up for my first meeting at the end of the 2019 Spring semster. I heard they had an autonomous car project and I was eager to get involved. I was concerned that I was not smart enough to make any meaningful contributions to the team, but within a month of joining the team, I was made Team Leader.  
 
-- Lorem ipsum
-- dolor sit amet
+*   Lorem ipsum
+*   dolor sit amet
