@@ -23,7 +23,7 @@ params:
         style: link
       - label: Contact
         url: /contact/
-        style: link
+        style: button
         no_follow: true
     has_social: true
     social_links:
