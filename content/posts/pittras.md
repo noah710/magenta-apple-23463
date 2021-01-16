@@ -1,6 +1,6 @@
 ---
 title: Team Leader
-subtitle: lorem-ipsum
+subtitle: Pitt RAS
 date: '2021-01-16'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
