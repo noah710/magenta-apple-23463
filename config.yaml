@@ -3,7 +3,7 @@ baseURL: /
 params:
   description: Personal blogging theme for Stackbit
   layout_style: overflow
-  palette: orange
+  palette: blue
   header:
     title: Noah LaFerriere
     tagline: Devops Engineer
