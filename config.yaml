@@ -7,7 +7,7 @@ params:
   header:
     title: Noah LaFerriere
     tagline: Devops Engineer
-    profile_img: images/avatar.png
+    profile_img: images/IMG_5182.jpeg
     profile_img_alt: Author avatar
     background: dark
     has_nav: true
