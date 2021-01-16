@@ -16,7 +16,10 @@ sections:
       software and infrastructure and I've gained a ton of experience with Linux
       through my various life, club and work projects. I've spent most of my
       time in positions where my job is to automate workflows, create
-      deploy-able environments and "make things work."
+      deploy-able environments and "make things work." 
+
+
+      Check out my Skills and Experience pages to learn more!
     actions:
       - label: Contact Me
         url: /contact
