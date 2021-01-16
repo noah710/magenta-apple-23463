@@ -2,7 +2,7 @@
 title: About Me
 subtitle: A little bit about me and my technical skills
 img_path: images/IMG_4593.jpg
-img_alt: Noah in Dubai
+img_alt: Noah Dubai
 layout: page
 ---
 
