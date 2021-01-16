@@ -4,7 +4,9 @@ subtitle: 'Role: Team Leader'
 date: '2019-06-07'
 thumb_img_alt: magellan robot
 content_img_alt: magellan robot
-excerpt: Led a small team of students
+excerpt: >-
+  Led a small team of students on an autonomous robotics project under the
+  University of Pittsbrurgh Robotics and Automation Society
 canonical_url: lorem-ipsum
 layout: post
 thumb_img_path: images/IMG_3967.jpg
