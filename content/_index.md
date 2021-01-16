@@ -30,4 +30,5 @@ sections:
         url: blog/index.html
         style: button
 layout: advanced
+excerpt: v
 ---
