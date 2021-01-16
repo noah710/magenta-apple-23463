@@ -5,7 +5,7 @@ date: '2019-06-07'
 thumb_img_alt: magellan robot
 content_img_alt: magellan robot
 excerpt: >-
-  Led a small team of students on an autonomous robotics project under the
+  Led a small team of students on an autonomous robot project under the
   University of Pittsbrurgh Robotics and Automation Society
 canonical_url: lorem-ipsum
 layout: post
