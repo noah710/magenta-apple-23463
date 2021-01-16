@@ -14,7 +14,7 @@ content_img_path: images/IMG_3967.jpg
 ---
 ## Overview
 
-I first got involved Pitt RAS when I showed up for my first meeting at the end of the 2019 Spring semster. Soon after, the club became my second home as I made lots of new friends with similar interests as me.
+I first got involved Pitt RAS when I showed up for my first meeting at the end of the 2019 Spring semester. Soon after, the club became my second home as I made lots of new friends with similar interests as me.
 
 ### Technical Experience
 
@@ -29,6 +29,6 @@ By the end of the Summer, my team and I created a robot that could localize itse
 
 ### Soft Experience
 
-With the Fall semester starting, my job as Team Leader changed drastically. Instead of sitting in the workshop hacking, I was standing infront of hundreds of people recruiting new members and managing relationships with my clubs partnerships. My technical knowledge made me confident in my ability to lead a team, despite only joinging the club 3 months prior. At my first team meeting with my 20+ new members, I quickly learned that leadership was about far more than being the smartest person in the room. 
+With the Fall semester starting, my job as Team Leader changed drastically. Instead of sitting in the workshop hacking, I was standing infront of hundreds of people recruiting new members and managing relationships with my clubs partnerships. My technical knowledge made me confident in my ability to lead a team, despite only joining the club 3 months prior. At my first team meeting with my 20+ new members, I quickly learned that leadership was about far more than being the smartest person in the room.
 
-While I struggled to effectiely lead my team, my teams headcount dwindled
+While I struggled to effectively lead my team, my teams headcount dwindled
