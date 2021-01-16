@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: A little bit about me and my technical skills
 img_path: images/about.jpg
 img_alt: Portrait of a man with beard and mustache
 layout: page
