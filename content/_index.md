@@ -23,7 +23,7 @@ sections:
         style: button
   - section_id: recent-posts
     type: section_posts
-    title: My projects
+    title: Blog
     posts_number: 4
     actions:
       - label: View Blog
