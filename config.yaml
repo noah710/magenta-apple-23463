@@ -28,7 +28,7 @@ params:
     has_social: true
     social_links:
       - label: GitHub
-        url: 'https://github.com/'
+        url: 'https://github.com/noah710'
         style: icon
         icon_class: fa-github
         new_window: true
