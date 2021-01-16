@@ -33,7 +33,7 @@ params:
         icon_class: fa-github
         new_window: true
       - label: LinkedIn
-        url: 'https://www.linkedin.com/'
+        url: 'https://www.linkedin.com/in/noah-laferriere-4880091ab/'
         style: icon
         icon_class: fa-linkedin
         new_window: true
