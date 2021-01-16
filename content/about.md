@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: A little bit about me and my technical skills
-img_path: images/IMG_4593_small.jpeg
+img_path: images/IMG_4593-cropped_shrunk.png
 img_alt: Noah Dubai
 layout: page
 ---
