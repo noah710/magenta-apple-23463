@@ -2,7 +2,7 @@
 title: Contact
 hide_title: false
 sections:
-  - title: lorem-ipsum
+  - title: \
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
