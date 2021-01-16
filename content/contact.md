@@ -7,17 +7,10 @@ sections:
       disclose contact details
     section_id: contact-desc
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Please feel free to reach out to me on
+      [LinkedIn](https://www.linkedin.com/in/noah-laferriere-4880091ab/) or via
+      email: noahlaf@gmail.com
     actions: []
     type: section_content
 layout: advanced
