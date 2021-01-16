@@ -1,5 +1,5 @@
 ---
-title: Pitt Robotics & Automation Society (RAS
+title: Pitt Robotics & Automation Society (RAS)
 subtitle: ''
 date: '2021-01-16'
 thumb_img_alt: lorem-ipsum
