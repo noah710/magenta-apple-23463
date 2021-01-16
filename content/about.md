@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: A little bit about me and my technical skills
-img_path: images/about.jpg
+img_path: images/IMG_4593.jpg
 img_alt: Portrait of a man with beard and mustache
 layout: page
 ---
