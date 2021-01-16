@@ -12,11 +12,11 @@ sections:
     title: About
     content: >
       I'm a Linux enthusiast with a can-do attitude willing to RTFM and do
-      whatever it takes to keep the ship sailing. My strengths and interests are
-      primarily focused in systems software and infrastructure but I also enjoy
-      computer vision and machine learning applications. I've spent most of my
-      time in positions where my job is to automate workflows, create
-      deploy-able environments and "make things work." 
+      whatever it takes to keep the ship sailing. I love working on systems
+      software and infrastructure but I also enjoy computer vision and machine
+      learning applications. I've spent most of my time in positions where my
+      job is to automate workflows, create deploy-able environments and "make
+      things work."
     actions:
       - label: Contact Me
         url: /contact
