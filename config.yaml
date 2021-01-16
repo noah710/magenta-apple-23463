@@ -15,10 +15,10 @@ params:
       - label: Home
         url: /
         style: link
-      - label: Blog
+      - label: Experience
         url: /blog/
         style: link
-      - label: Style Guide
+      - label: ''
         url: /style-guide/
         style: link
       - label: About
