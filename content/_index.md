@@ -5,12 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Noah'
-    content: >
-      Computer Science Student at the University of Pittsburgh
-
-
-      Actively looking for DevOps and cloud engineering opportunities post
-      graduation in April 2021
+    content: |
+      Computer Science Senior at the University of Pittsburgh
   - section_id: about
     type: section_content
     title: About
