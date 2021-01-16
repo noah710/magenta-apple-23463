@@ -25,8 +25,10 @@ During the first 3 months over the Summer, I led a small and tight-knit team of 
 *   Developed robot localization system
 *   Created TensorFlow object detection system
 
-By the end of the Summer, my team and I created a robot that could localize itself and autonomously follow a software-defined path! Check out this milestone on [YouTube](https://www.youtube.com/watch?v=kj7x4HNcMWw)
+By the end of the Summer, my team and I created a robot that could localize itself and autonomously follow a software-defined path! Check out this milestone on [YouTube.](https://www.youtube.com/watch?v=kj7x4HNcMWw)
 
 ### Soft Experience
 
-With the Fall semester starting, my job as Team Leader changed drastically. Instead of sitting in the workshop hacking, I was standing infront of hundreds of people recruiting new members and managing relationships between my clubs partnerships. 
+With the Fall semester starting, my job as Team Leader changed drastically. Instead of sitting in the workshop hacking, I was standing infront of hundreds of people recruiting new members and managing relationships with my clubs partnerships. My technical knowledge made me confident in my ability to lead a team, despite only joinging the club 3 months prior. At my first team meeting with my 20+ new members, I quickly learned that leadership was about far more than being the smartest person in the room. 
+
+While I struggled to effectiely lead my team, my teams headcount dwindled
