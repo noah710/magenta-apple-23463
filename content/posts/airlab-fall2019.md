@@ -1,5 +1,5 @@
 ---
-title: 'CMU Robotics Institute, SubT'
+title: CMU Robotics Institute - DARPA Subteranean Challenge
 subtitle: lorem-ipsum
 date: '2021-01-18'
 thumb_img_alt: lorem-ipsum
