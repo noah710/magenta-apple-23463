@@ -39,8 +39,8 @@ params:
         new_window: true
   footer:
     content: >-
-      Copywrite &copy; Noah LaFerriere. All rights reserved. This Jamstack site
-      was created with <a
+      Copywrite &copy; Noah LaFerriere. All rights and lefts reserved. This
+      Jamstack site was created with <a
       href="https://www.stackbit.com/?utm_source=deployed-footer"
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer"
