@@ -6,7 +6,7 @@ thumb_img_alt: husky
 content_img_alt: MBZ team
 excerpt: >-
   Worked as a Software Engineer Intern on the MBZIRC project at the Carnegie
-  Mellon University Robotics Institute. 
+  Mellon University Robotics Institute
 canonical_url: lorem-ipsum
 layout: post
 thumb_img_path: images/IMG_4482.JPG
