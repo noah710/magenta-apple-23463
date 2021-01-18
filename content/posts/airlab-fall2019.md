@@ -12,9 +12,7 @@ layout: post
 thumb_img_path: images/successful-jupiter.jpeg
 content_img_path: images/SubT-Urban-Circuit-testing-Web-CMU.jpeg
 ---
-## Lorem ipsum
+## Overview
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+My time at the Robotics Institute started after my [Mentor](https://asaba96.github.io/) arranged for me to meet with some people from Team Explorer to discuss how I could possibly contribute to the project. It was surreal knowing that Team Explorer was just a few blocks away from my campus and I deperately wanted to get involved. I explained that I had robotics experience but that I was interested in working on infrastructure and deployment pipelines, and they acknowledged that their basestation and deployment pipelines could use some TLC.
 
-- Lorem ipsum
-- dolor sit amet
