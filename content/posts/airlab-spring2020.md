@@ -1,7 +1,7 @@
 ---
 title: CMU Robotics Institute - Mohammad Bin Zayed International Robotics Challenge
 subtitle: 'Role: Software Engineer Intern'
-date: '2019-11-18'
+date: '2019-11-15'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
