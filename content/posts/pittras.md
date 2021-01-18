@@ -29,6 +29,10 @@ By the end of the Summer, my team and I created a robot that could localize itse
 
 ### Soft Experience
 
-With the Fall semester starting, my job as Team Leader changed drastically. Instead of sitting in the workshop hacking, I was standing in front of hundreds of people recruiting new members and managing relationships with my clubs partnerships. My technical knowledge made me confident in my ability to lead a team, despite only joining the club 3 months prior. But at my first team meeting with my 20+ new members, I quickly learned that leadership was about far more than being the smartest person in the room.
+With the Fall semester starting, my job as Team Leader changed drastically. Instead of sitting in the workshop hacking with my friends, I was standing in front of hundreds of people recruiting new members and managing relationships with my clubs partnerships. After I had recruited about 15 new members, my job shifted again to organizing and planning our twice-weekly meetings. My time as team leader gave me a unique perspective on not only what it takes to run a team, but how to support your team and the members within it. 
 
-While I struggled to effectively lead my team, my teams headcount dwindled.
+
+
+This offered me a great opportunity to work on my **soft skills**, like: 
+
+*
