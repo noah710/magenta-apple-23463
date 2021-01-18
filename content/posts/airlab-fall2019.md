@@ -5,8 +5,8 @@ date: '2019-09-30'
 thumb_img_alt: RI airlab explorer logo
 content_img_alt: R1 & DS1 glamour shot
 excerpt: >-
-  Volunteered to work as a Research Assistant at the Carnegie Mellon University
-  Robotics Institute
+  Volunteered to work as a Research Assistant on the DARPA Subterranean
+  Challenge at the Carnegie Mellon University Robotics Institute
 canonical_url: lorem-ipsum
 layout: post
 thumb_img_path: images/explorer-logo.jpeg
