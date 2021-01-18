@@ -12,9 +12,10 @@ layout: post
 thumb_img_path: images/IMG_4482.JPG
 content_img_path: images/IMG_4598.JPG
 ---
-## Lorem ipsum
+## Overview
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I was brought on to the MBZIRC team as a Software Engineer Intern shortly after getting my foot in the door at CMU. I worked with a team of CMU graduate students under Dr. Sebastian Scherer and Dr. Oliver Kroemer. After joining the team, I was sponsored to travel to Abu Dhabi to compete at competiton with my team.
 
-- Lorem ipsum
-- dolor sit amet
+## Contributions
+
+##
