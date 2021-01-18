@@ -7,7 +7,7 @@ content_img_alt: MBZ team
 excerpt: >-
   Worked as a Software Engineer Intern on the MBZIRC project at the Carnegie
   Mellon University Robotics Institute
-canonical_url: lorem-ipsum
+canonical_url: airlab
 layout: post
 thumb_img_path: images/IMG_4482.JPG
 content_img_path: images/IMG_4598.JPG
