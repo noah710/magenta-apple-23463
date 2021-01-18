@@ -33,7 +33,7 @@ With the Fall semester starting, my job as Team Leader changed drastically. Inst
 
 Leading my team was very challenging, but I feel that I learned a lot from my experience. Some of the **soft skills** I got to work on include:
 
-*   Leadership 
+*   Leadership
 *   Public Speaking
-*   Teamwork
-*   Team Organization
+*   Team Building
+*   Resource Management
