@@ -1,6 +1,6 @@
 ---
 title: CMU Robotics Institute - DARPA subterranean Challenge
-subtitle: 'Role: '
+subtitle: 'Role: Research Volunteer'
 date: '2021-01-18'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
