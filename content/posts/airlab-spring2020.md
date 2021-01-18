@@ -23,3 +23,7 @@ I was recruited to build out (1) Docker infrastructure for the team's existing c
 1.  Developed Docker infrastructure for our codebase and deployment pipelines for our drones and ground robots
 2.  Identified automatable workflows and automated deployments, startup, error checking & correcting and data collection
 3.  Trained YOLOv3 neural networks to detect competition artifacts, and created streamlined process for training on the Airlab's cloud-based cluster computer
+
+## Competition
+
+See the CMU Airlab's writeup [here](https://theairlab.org/mbzirc-2020/)!
