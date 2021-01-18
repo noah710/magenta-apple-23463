@@ -18,4 +18,6 @@ I was brought on to the MBZIRC team as a Software Engineer Intern shortly after 
 
 ## Contributions
 
-I was recruited to build out Docker infrastructure for the team's existing codebase, but I took on more responsibility and filled the gaps where needed. I worked closely with each of the 3 subteams to build out deployment pipelines and startup scripts that enabled streamlined development and smooth deployments in competition. While owning my teams infrastructure was my main responsibiltiy, I also volunteered to create our object detection neural networks. I und
+I was recruited to build out (1) Docker infrastructure for the team's existing codebase, but I took on more responsibility and filled the gaps where needed. (2) I worked closely with each of the 3 subteams to build out deployment pipelines and startup scripts that enabled streamlined development and smooth deployments in competition. While owning my teams infrastructure was my main responsibiltiy, I also volunteered to (3) create our object detection neural networks. 
+
+1.
