@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: CMU Robotics Institute - Mohammad Bin Zayed International Robotics Challenge
 subtitle: lorem-ipsum
 date: '2021-01-18'
 thumb_img_alt: lorem-ipsum
