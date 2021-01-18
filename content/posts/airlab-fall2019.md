@@ -8,6 +8,7 @@ excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 layout: post
 thumb_img_path: images/explorer-logo.jpeg
+content_img_path: images/SubT-Urban-Circuit-testing-Web-CMU.jpeg
 ---
 ## Lorem ipsum
 
