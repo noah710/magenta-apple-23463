@@ -1,5 +1,5 @@
 ---
-title: CMU Robotics Institute - DARPA subterranean Challenge
+title: CMU Robotics Institute - DARPA Subterranean Challenge
 subtitle: 'Role: Volunteer Research Assistant'
 date: '2019-09-30'
 thumb_img_alt: RI airlab explorer logo
