@@ -7,6 +7,7 @@ content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 layout: post
+thumb_img_path: images/IMG_4482.JPG
 ---
 ## Lorem ipsum
 
