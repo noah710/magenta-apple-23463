@@ -1,7 +1,7 @@
 title: Noah LaFerriere
 baseURL: /
 params:
-  description: Noah's
+  description: Noah's web porfolio
   layout_style: overflow
   palette: violet
   header:
