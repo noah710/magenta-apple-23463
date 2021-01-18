@@ -9,7 +9,7 @@ excerpt: >-
   Challenge at the Carnegie Mellon University Robotics Institute
 canonical_url: airlab-subt
 layout: post
-thumb_img_path: images/explorer-logo.jpeg
+thumb_img_path: images/successful-jupiter.jpeg
 content_img_path: images/SubT-Urban-Circuit-testing-Web-CMU.jpeg
 ---
 ## Lorem ipsum
