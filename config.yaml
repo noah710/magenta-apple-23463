@@ -39,7 +39,7 @@ params:
         new_window: true
   footer:
     content: >-
-      Copywrite &copy; Noah LaFerriere. All rights and lefts reserved. Created
+      Copyright &copy; Noah LaFerriere. All rights and lefts reserved. Created
       with <a href="https://www.stackbit.com/?utm_source=deployed-footer"
       target="_blank" rel="noopener">Stackbit</a>
 taxonomies:
