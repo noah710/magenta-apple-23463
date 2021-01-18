@@ -4,7 +4,7 @@ subtitle: 'Role: Software Engineer Intern'
 date: '2019-11-15'
 thumb_img_alt: husky
 content_img_alt: MBZ team
-excerpt: lorem-ipsum
+excerpt: Worked as a Software Engineer
 canonical_url: lorem-ipsum
 layout: post
 thumb_img_path: images/IMG_4482.JPG
