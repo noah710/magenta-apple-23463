@@ -7,7 +7,7 @@ content_img_alt: R1 & DS1 glamour shot
 excerpt: >-
   Volunteered to work as a Research Assistant on the DARPA Subterranean
   Challenge at the Carnegie Mellon University Robotics Institute
-canonical_url: airlab
+canonical_url: airlab-subt
 layout: post
 thumb_img_path: images/explorer-logo.jpeg
 content_img_path: images/SubT-Urban-Circuit-testing-Web-CMU.jpeg
