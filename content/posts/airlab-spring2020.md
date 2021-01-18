@@ -1,7 +1,7 @@
 ---
 title: CMU Robotics Institute - Mohammad Bin Zayed International Robotics Challenge
 subtitle: 'Role: Software Engineer Intern'
-date: '2019-01-15'
+date: '2019-04-15'
 thumb_img_alt: husky
 content_img_alt: MBZ team
 excerpt: >-
