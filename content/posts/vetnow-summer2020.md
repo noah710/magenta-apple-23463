@@ -9,7 +9,7 @@ excerpt: >-
   telemedicine platform
 canonical_url: vetnow1
 layout: post
-content_img_path: images/polite-artichoke.jpeg
+content_img_path: images/splendid-europa.png
 thumb_img_path: images/vn-small.jpeg
 ---
 ## Overview
