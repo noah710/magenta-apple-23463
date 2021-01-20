@@ -16,7 +16,7 @@ Learning has been a constant in my life ever since I first live booted Ubuntu on
 
 *   AWS      - 85%
 
-I am comfortable with the following languages:
+**I am comfortable with the following languages:**
 
 *   Python - 90%
 
@@ -25,4 +25,3 @@ I am comfortable with the following languages:
 *   Java     - 80%
 
 *   C++      - 70%
-
