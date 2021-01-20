@@ -1,7 +1,7 @@
 ---
 title: VetNOW
 subtitle: 'Role: Software Engineer Intern'
-date: '2021-01-20'
+date: '2020-06-01'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
