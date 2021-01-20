@@ -11,5 +11,6 @@ sections:
       email: noahlaf \[at] gmail \[dot] com
     actions: []
     type: section_content
+    image: images/unique-eggplant.png
 layout: advanced
 ---
