@@ -30,7 +30,7 @@ sections:
         url: 'https://pitt.box.com/s/kftwsdy66eg1rh50zwlp6ne4152kdr6u'
         style: button
         icon_class: lorem-ipsum
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
 layout: advanced
