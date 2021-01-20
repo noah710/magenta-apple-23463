@@ -3,7 +3,7 @@ title: VetNOW
 subtitle: 'Role: Software Engineer Intern'
 date: '2020-06-01'
 thumb_img_alt: Vetnow - telemed
-content_img_alt: lorem-ipsum
+content_img_alt: vetnow
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 layout: post
