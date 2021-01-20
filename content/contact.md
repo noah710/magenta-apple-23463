@@ -8,7 +8,7 @@ sections:
     content: >
       Please feel free to reach out to me on
       [LinkedIn](https://www.linkedin.com/in/noah-laferriere-4880091ab/) or via
-      email: noahlaf@gmail.com
+      email: noahlaf \[at] gmail \[dot] com
     actions: []
     type: section_content
 layout: advanced
