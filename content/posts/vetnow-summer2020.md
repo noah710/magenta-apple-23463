@@ -10,6 +10,7 @@ excerpt: >-
 canonical_url: vetnow1
 layout: post
 content_img_path: images/VetNOW_LOGO.png
+thumb_img_path: images/vetnow_small.jpeg
 ---
 ## Overview
 
