@@ -15,3 +15,14 @@ Learning has been a constant in my life ever since I first live booted Ubuntu on
 *   Bash     - 90%
 
 *   AWS      - 85%
+
+I am comfortable with the following languages:
+
+*   Python - 90%
+
+*   Bash     - 90%
+
+*   Java     - 80%
+
+*   C++      - 70%
+
