@@ -27,7 +27,7 @@ sections:
         style: button
         no_follow: true
       - label: Download my Resume
-        url: 'https://pitt.box.com/s/kftwsdy66eg1rh50zwlp6ne4152kdr6u'
+        url: 'https://pitt.box.com/s/fl6mqoardajd02sh8t450ytxus0t1gmr'
         style: button
         icon_class: lorem-ipsum
         new_window: true
