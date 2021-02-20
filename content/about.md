@@ -30,4 +30,6 @@ Over the years, I've found some **tools that I absolutely cannot live without**:
 
 *   C++      - 70%
 
+*   ES6      - 60%
+
 *   C# (gross!) - 60%
