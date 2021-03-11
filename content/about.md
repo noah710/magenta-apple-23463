@@ -16,7 +16,7 @@ Over the years, I've found some **tools that I use in just about every project**
 
 *   Bash     - 90%
 
-**I am comfortable with the following languages:**
+**I am proficient with the following languages:**
 
 *   Python - 90%
 
@@ -24,8 +24,10 @@ Over the years, I've found some **tools that I use in just about every project**
 
 *   Java     - 80%
 
-*   C++      - 70%
+**I am comfortable with the following languages:**
 
-*   JS         - 60%
+*   C++                     - 70%
 
-*   C# (gross!) - 60%
+*   JavaScript        - 60%
+
+*   C# (gross!)        - 60%
