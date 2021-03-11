@@ -24,6 +24,6 @@ As one of 2 software engineers at this small startup, I wore many hats and took 
 
 *   Developed containerized deployment solution for the platform which enabled rapid local development and testing
 
-*   Worked with Quality Assurance engineers to develop Pytest QA automation system, created CI/CD pipeline and custom tooling to facilitate development and automate operational overhead 
+*   Worked with Quality Assurance engineers to develop Pytest QA automation system, created CI/CD pipeline and custom tooling to facilitate development and automate operational overhead
 
 *   Researched Ultrasound devices and acted as Point of Contact with manufacturers and distributors
