@@ -8,21 +8,19 @@ Learning has been a constant in my life ever since I first live booted Kali Linu
 
 While I've learned a broad variety of tools via the unique tech stacks in each of my positions, I pride myself on my ability to quickly acclimate to new stacks - rather than the particular tools in each stack.
 
-Over the years, I've found some **tools that I absolutely cannot live without**:
+Over the years, I've found some **tools that I use in just about every project**:
 
-*   Docker - 95%
+*   Linux    - 100%
 
-*   Linux    - 95%
+*   Docker   - 95%
 
 *   Python - 90%
 
 *   Bash     - 90%
 
-*   AWS      - 70%
-
 **I am comfortable with the following languages:**
 
-*   Python - 100%
+*   Python - 90%
 
 *   Bash     - 90%
 
@@ -30,6 +28,6 @@ Over the years, I've found some **tools that I absolutely cannot live without**:
 
 *   C++      - 70%
 
-*   JavaScript      - 60%
+*   JS         - 60%
 
 *   C# (gross!) - 60%
