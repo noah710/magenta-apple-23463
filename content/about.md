@@ -22,7 +22,7 @@ Over the years, I've found some **tools that I absolutely cannot live without**:
 
 **I am comfortable with the following languages:**
 
-*   Python - 90%
+*   Python - 100%
 
 *   Bash     - 90%
 
@@ -30,6 +30,6 @@ Over the years, I've found some **tools that I absolutely cannot live without**:
 
 *   C++      - 70%
 
-*   ES6      - 60%
+*   JavaScript      - 60%
 
 *   C# (gross!) - 60%
