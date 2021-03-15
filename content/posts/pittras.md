@@ -14,7 +14,7 @@ content_img_path: images/IMG_3967.jpg
 ---
 ## Overview
 
-I first got involved Pitt RAS when I showed up for my first meeting at the end of the Spring 2019 semester. Soon after, the club became my second home as I made lots of new friends with similar interests as me, mainly Linux and Robotics. 
+I first got involved with Pitt RAS when I showed up for my first meeting at the end of the Spring 2019 semester. Soon after, the club became my second home as I made lots of new friends with similar interests as me, mainly Linux and Robotics.
 
 ### Technical Experience
 
