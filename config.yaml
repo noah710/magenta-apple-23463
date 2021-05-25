@@ -25,6 +25,13 @@ params:
         url: /contact/
         style: link
         no_follow: true
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
     has_social: true
     social_links:
       - label: GitHub
