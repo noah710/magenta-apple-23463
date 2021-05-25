@@ -26,12 +26,8 @@ params:
         style: link
         no_follow: true
       - label: Portfolio
-        url: portfolio
+        url: /portfolio/
         style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
     has_social: true
     social_links:
       - label: GitHub
