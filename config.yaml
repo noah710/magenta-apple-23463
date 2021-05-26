@@ -41,10 +41,7 @@ params:
         icon_class: fa-linkedin
         new_window: true
   footer:
-    content: >-
-      All rights and lefts reserved. Created with <a
-      href="https://www.stackbit.com/?utm_source=deployed-footer"
-      target="_blank" rel="noopener">Stackbit</a>
+    content: All rights and lefts reserved.
 taxonomies:
   stub: stub
 disableKinds:
