@@ -1,5 +1,5 @@
 ---
-title: Portfolio11
+title: Portfolio
 layout: portfolio
-excerpt: WYA
+excerpt: Noah's featured projects
 ---

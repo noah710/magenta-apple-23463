@@ -28,6 +28,6 @@ Over the years, I've found some **tools that I use in just about every project**
 
 *   C++                     - 70%
 
-*   JavaScript        - 60%
+*   JavaScript        - 70%
 
 *   C# (gross!)        - 60%
