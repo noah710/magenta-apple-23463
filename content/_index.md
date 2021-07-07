@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Noah'
     content: |
-      Recent Computer Science Graduate | The University of Pittsburgh
+      Spring 2021 Computer Science Graduate | University of Pittsburgh
   - section_id: about
     type: section_content
     title: About
