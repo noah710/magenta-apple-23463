@@ -16,33 +16,33 @@ sections:
       
       - Robotics
         - 
-        - [Software Engineer Intern, CMU Robotics Institute:]() Supported a team of graduate students developing autonomous drones and ground robots by:
+        - [Software Engineer Intern, CMU Robotics Institute:](/posts/airlab-spring2020/) Supported a team of graduate students developing autonomous drones and ground robots by:
           -  Automating field testing and data collection workflows, decreasing testing time spent in field 3x 
           - Creating deployment pipelines and integrating with Docker infrastructure, decreasing startup time 5x
           - Troubleshooting sensors & owning onboard systems
           - Training various Object Detection NNs for drone intercept challenge (data gathering, cleaning, labeling, validating, training, deploying and optimizing) that achieved 90% effectiveness in competition
-        - [Team Leader, Pitt RAS:]() Led a team that developed an autonomous ground robot for Pitt RAS, responsible for:
+        - [Team Leader, Pitt RAS:](/posts/pittras/) Led a team that developed an autonomous ground robot for Pitt RAS, responsible for:
           - Onboard infrastructure
           - Sensor integration
           - Localization & Navigation
           - Cone Detection NN training & deployment
       - Web Programming
         - 
-        - Created [StockStack](/linktostockstack), a stock and portfolio tracking web app. 
+        - Created [StockStack](/projects/stockstack/), a stock and portfolio tracking web app. 
           - HTML/CSS + JavaScript frontend
           - Flask backend with GCP Datastore database
           - Deployed in GCP App Engine 
-        - Created [JavaScript Bluetooth](/linktovetnowwaveform) module to integrate medical devices with web app
+        - Created [JavaScript Bluetooth](https://www.screencast.com/users/NoahLaFerriere/folders/Default/media/d9540f51-2def-4158-ae16-f8aa3def01ce/embed) module to integrate medical devices with web app
           - JavaScript & Web Bluetooth API to interface with the Bluetooth devices
           - HTML/CSS + JavaScript to display data and waveform from ECG & SpO2 devices
           - NodeJS backend
-        - Created [this website](/linktowebsitepost)
+        - Created [this website](https://github.com/noah710/magenta-apple-23463)
           - A JAMstack website made with Hugo, based on a template from StackBit
           - Deployed on AWS Amplify, with CD pipeline 
       - Test Automation 
         - 
-        - Developed, containerized and deployed a test runner server and integrated it with a 3rd party reporting API
-        - Developed, containerized and deployed a continuous visibility server, which notified the development team via SMS when critical unit tests failed.
+        - Developed, containerized and deployed a [test runner server](https://github.com/noah710/pytest_testrail_testrunner) and integrated it with a 3rd party reporting API
+        - Developed, containerized and deployed a [continuous visibility server](https://github.com/noah710/Pytest_Continuous_Visibility), which notified the development team via SMS when critical unit tests failed.
       - Linux Systems & Administration
         - 
         - I'm the "Linux guy" on most teams I work on. I've been developing on Linux systems for 7 years (although only seriously for 3) and I'm excellent at developing, debugging and deploying software in Linux environments. 
