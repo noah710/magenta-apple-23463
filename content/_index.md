@@ -6,28 +6,56 @@ sections:
     type: section_hero
     title: 'Hi, I''m Noah'
     content: |
-      Computer Science Senior at the University of Pittsburgh
+      Recent Computer Science Graduate | The University of Pittsburgh
   - section_id: about
     type: section_content
     title: About
     content: >
-      I'm a CS student and hacker with a can-do attitude willing to RTFM and do
-      whatever it takes to keep the ship sailing. I love working on systems
-      software and infrastructure and I've gained a ton of experience with Linux
-      through my various life, club and work projects. I've spent most of my
-      time in positions where my job is to automate workflows, create
-      deploy-able environments and "make things work."
+      I'm an experienced Software Engineer with a can-do attitude willing to RTFM and do whatever it takes to keep the ship sailing. I've gained a ton of experience developing in Linux through my various life (2013-present), club (2019-2020) and work (2020-Present) projects. I am a generalist, and my experience helps me learn new technologies and effectively apply them. 
+      **Scroll down to see my highlighted experience**
+      
+      - Robotics
+        - 
+        - [Software Engineer Intern, CMU Robotics Institute:]() Supported a team of graduate students developing autonomous drones and ground robots by:
+          -  Automating field testing and data collection workflows, decreasing testing time spent in field 3x 
+          - Creating deployment pipelines and integrating with Docker infrastructure, decreasing startup time 5x
+          - Troubleshooting sensors & owning onboard systems
+          - Training various Object Detection NNs for drone intercept challenge (data gathering, cleaning, labeling, validating, training, deploying and optimizing) that achieved 90% effectiveness in competition
+        - [Team Leader, Pitt RAS:]() Led a team that developed an autonomous ground robot for Pitt RAS, responsible for:
+          - Onboard infrastructure
+          - Sensor integration
+          - Localization & Navigation
+          - Cone Detection NN training & deployment
+      - Web Programming
+        - 
+        - Created [StockStack](/linktostockstack), a stock and portfolio tracking web app. 
+          - HTML/CSS + JavaScript frontend
+          - Flask backend with GCP Datastore database
+          - Deployed in GCP App Engine 
+        - Created [JavaScript Bluetooth](/linktovetnowwaveform) module to integrate medical devices with web app
+          - JavaScript & Web Bluetooth API to interface with the Bluetooth devices
+          - HTML/CSS + JavaScript to display data and waveform from ECG & SpO2 devices
+          - NodeJS backend
+        - Created [this website](/linktowebsitepost)
+          - A JAMstack website made with Hugo, based on a template from StackBit
+          - Deployed on AWS Amplify, with CD pipeline 
+      - Test Automation 
+        - 
+        - Developed, containerized and deployed a test runner server and integrated it with a 3rd party reporting API
+        - Developed, containerized and deployed a continuous visibility server, which notified the development team via SMS when critical unit tests failed.
+      - Linux Systems & Administration
+        - 
+        - I'm the "Linux guy" on most teams I work on. I've been developing on Linux systems for 7 years (although only seriously for 3) and I'm excellent at developing, debugging and deploying software in Linux environments. 
+        - I am especially experienced with Docker and I have a knack for containerizing and creating deployment solutions for all kinds of software, from SaaS platforms to live field robot stacks.  
+  
 
-
-      Check out my [Skills](/about) and [Experience](/blog) pages to learn more
-      about me!
     actions:
       - label: Contact Me
         url: /contact
         style: button
         no_follow: true
       - label: Download my Resume
-        url: 'https://pitt.box.com/s/c7n4xxpqgmuyeas6ac5viq9kin4r03l6'
+        url: '/images/Noah_LaFerriere_Resume.pdf'
         style: button
         icon_class: lorem-ipsum
         new_window: true
