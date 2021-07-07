@@ -15,19 +15,19 @@ params:
       - label: Home
         url: /
         style: link
-      - label: Experience
+      - label: Work Experience
         url: /blog/
         style: link
-      - label: Skills
-        url: /about/
+      - label: My Projects
+        url: /portfolio/
+        style: link
+      - label: Download My Resume
+        url: /images/Noah_LaFerriere_Resume.pdf
         style: link
       - label: Contact
         url: /contact/
         style: link
         no_follow: true
-      - label: Portfolio
-        url: /portfolio/
-        style: link
     has_social: true
     social_links:
       - label: GitHub
